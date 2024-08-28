@@ -9,7 +9,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Screenshot
 
 ![](./screenshot.jpg)
-![](<FireShot Capture 001 - Recipe Page - .png>)
+![alt text](<FireShot Capture 001 - Recipe Page - .png>)
 
 
 
